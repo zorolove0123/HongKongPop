@@ -25,7 +25,7 @@ Java
 
 ### Installing
 
-For the interactive map, just download HongKong_PopDen.exe and run it :)
+For the interactive map, just download HongKong_PopDen.exe, data and souce files and run it :)
 For the souce pde, you will need Processing 3+ to view or edit them.
 
 ### Code Example
