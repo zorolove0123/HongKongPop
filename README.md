@@ -5,68 +5,46 @@ Hong Kong Population Change 1991-2011
  * It also contains relevant information including a population statistics table, pie charts of population by age 
  * and a district map to help understanding changes in demographics of Hong Kong.
 
-Getting Started
+## Getting Started
 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-Prerequisities
-Windows 32-bit
+### Prerequisities
+exe:
 Windows 64-bit
 
-Give examples
-Installing
+souce code:
+Processing 3+
+Java 
 
-A step by step series of examples that tell you have to get a development env running
+### Installing
 
-Stay what the step will be
+For the interactive map, just download HongKong_PopDen.exe and run it :)
+For the souce pde, you will need Processing 3+ to view or edit them.
 
-Give the example
-And repeat
+## Motivation
 
-until finished
-End with an example of getting some data out of the system or using it for a little demo
+Hong Kong's demographic has been changing dynamicly before and after 1997. 
+There were a migration flow, a economic crisis, housing issues, reclamation, new towns, etc.
+This project aims to show general demohraphic changes in a interactive way.
 
-Running the tests
-
-Explain how to run the automated tests for this system
-
-Break down into end to end tests
+### Code Example
 
 Explain what these tests test and why
 
-Give an example
-And coding style tests
+## Contributors
 
-Explain what these tests test and why
+Contributions are welcome :)!
 
-Give an example
-Deployment
+## Versioning
 
-Add additional notes about how to deploy this on a live system
+Version 1.0
 
-Built With
+## Authors
 
-Dropwizard - Bla bla bla
-Maven - Maybe
-Atom - ergaerga
-Contributing
+Tammy Tam
 
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+## License
 
-Versioning
-
-We use SemVer for versioning. For the versions available, see the tags on this repository.
-
-Authors
-
-Billie Thompson - Initial work - PurpleBooth
-See also the list of contributors who participated in this project.
-
-License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
-Acknowledgments
-
-Hat tip to anyone who's code was used
-Inspiration
-etc
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
