@@ -28,10 +28,6 @@ Java
 For the interactive map, just download HongKong_PopDen.exe, data and souce files and run it :)
 For the souce pde, you will need Processing 3+ to view or edit them.
 
-### Code Example
-
-Explain what these tests test and why
-
 ### Contributors
 
 Contributions are welcome :)!
