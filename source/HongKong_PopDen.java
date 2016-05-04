@@ -75,25 +75,10 @@ public void keyPressed() {
     image(hkmap, width*0.02f, height*0.02f);
   }
 }
-/*
- * ellipse_draw 1.0 4 May 2016
- *
- * Copyright (c) student number: 200976764
- * School of Geography, University of Leeds, Leeds, West Yorkshire, UK. LS2 9JT
- * All rights reserved.
- *
- * This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
- * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
- */
 
 /**
- * This Processing Source Code contains 20 methods.
- * First 18 methods draws ellipse animations to illustrate changes of population of 18 coulcil districts.
- *
- * @author 200976764 <lovezoro220@gmail.com>
- * @version 1.0 4 May 2016
+ * The following 18 methods draws ellipse animations to illustrate changes of population of 18 coulcil districts.
  */
- 
 public void drawyl(){
   if (ylA <= ylB) {
   ylA += 0.4f;
@@ -308,24 +293,6 @@ public void writedist() {
   textSize(40);
   text("Hong Kong Population Change 1991 - 2011", 100, 700);
 }
-/*
- * graphs 1.0 4 May 2016
- *
- * Copyright (c) student number: 200976764
- * School of Geography, University of Leeds, Leeds, West Yorkshire, UK. LS2 9JT
- * All rights reserved.
- *
- * This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
- * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
- */
-
-/**
- * This Processing Source Code contains 40 methods for loading strings and integers from a table, drawing pie charts
- * and displaying a menu of using this application.
- *
- * @author 200976764 <lovezoro220@gmail.com>
- * @version 1.0 4 May 2016
- */
 
 /**
  * A universal integer for the for-loops.
@@ -781,26 +748,10 @@ public void menu() {
    text("  to lightest shade respectively.", width*0.6f, height*0.82f);
    text("'c' to view Hong Kong Disctict Coulcil District Map", width*0.6f, height*0.85f);
 }
-/*
- * pie_chart_data 1.0 4 May 2016
- *
- * Copyright (c) student number: 200976764
- * School of Geography, University of Leeds, Leeds, West Yorkshire, UK. LS2 9JT
- * All rights reserved.
- *
- * This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
- * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
- */
 
 /**
- * This Processing Source Code contains 36 float data of angles 
- * for the pie charts being drawn in Processing Source Code 'graphs'.
- *
- * @author 200976764 <lovezoro220@gmail.com>
- * @version 1.0 4 May 2016
+ * The following 36 float data of angles are for the pie charts of population by age.
  */
-
-
 float[] cenwesC = { 63.39f, 47.45f, 144.08f, 69.31f, 35.78f };
 float[] wanchaiC = { 56.55f, 40.06f, 141.82f, 79.24f, 42.33f };
 float[] eastC = { 67.68f, 49.06f, 143.31f, 66.81f, 33.15f };
@@ -838,25 +789,11 @@ float[] taipoD = { 36.72f, 51.48f, 109.08f, 123.84f, 38.52f };
 float[] shatinD = { 39.6f, 45.36f, 113.76f, 120.24f, 41.4f };
 float[] saikungD = { 46.44f, 47.88f, 124.56f, 108.72f, 32.4f };
 float[] islandD = { 53.64f, 45.72f, 120.6f, 105.12f, 34.92f };
-/*
- * population1991 1.0 4 May 2016
- *
- * Copyright (c) student number: 200976764
- * School of Geography, University of Leeds, Leeds, West Yorkshire, UK. LS2 9JT
- * All rights reserved.
- *
- * This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
- * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
- */
 
 /**
- * This Processing Source Code contains 18 float data of 1991 population in number. 
- * These number are being divided by 5000 to control the size of the ellipses being drawn.
- *
- * @author 200976764 <lovezoro220@gmail.com>
- * @version 1.0 4 May 2016
+ * The following 18 float data are 1991 population by district in number. 
+ * These numbera are being divided by 5000 to control the size of the ellipses being drawn.
  */
-
 float cenwesA = 253383/5000;
 float wanchaiA = 180309/5000;
 float eastA = 560200/5000;
@@ -875,25 +812,11 @@ float taipoA = 202117/5000;
 float shatinA = 506368/5000;
 float saikungA = 130418/5000;
 float islandA = 47459/5000;
-/*
- * population2011 1.0 4 May 2016
- *
- * Copyright (c) student number: 200976764
- * School of Geography, University of Leeds, Leeds, West Yorkshire, UK. LS2 9JT
- * All rights reserved.
- *
- * This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
- * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
- */
 
 /**
- * This Processing Source Code contains 18 float data of 2011 population in number. 
- * These number are being divided by 5000 to control the size of the ellipses being drawn.
- *
- * @author 200976764 <lovezoro220@gmail.com>
- * @version 1.0 4 May 2016
+ * The following 18 float data are 2011 population by district in number. 
+ * These numbera are being divided by 5000 to control the size of the ellipses being drawn.
  */
-
 float cenwesB = 251519/5000;
 float wanchaiB = 152608/5000;
 float eastB = 588094/5000;
